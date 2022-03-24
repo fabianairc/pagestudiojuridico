@@ -4,17 +4,19 @@ body{}
 
 
 #Nosotros{text-align: center; padding: 25px; font-style: oblique; background-color: 
-    rgb(85, 187, 194); height: 700px;}
-#Servicios{text-align: center; padding: 25px; font-style: oblique; background-color: 
-    rgb(85, 187, 194);}
+    rgb(91, 193, 201); height: 400px;}
+#Servicios{text-align: center; padding: 25px; font-style: oblique; background-color: rgba(224, 225, 226, 0.959);}
 html { height: 100%; }
 
 h1{text-align:center;}
 #Servicios{padding-top: 3cm;}
-
+#Contacto{background-color: rgba(224, 225, 226, 0.959);}
 
 #botones{ position:absolute;
-    top:50%;
+    top: 5%;
     left: 10%;
-    padding-top: 3px;}
+    padding-top: 3px; 
+    padding-bottom: 5px;
+}
+
    
